@@ -2,7 +2,7 @@
 A shopping list application build using Kotlin for Android
 
 # Home Page
-<img src="./home%20menu.png" width="200">
+<img src="./home%20page.png" width="200">
 
 # New Item Dialog
 ![](/new%20dialog.png)
