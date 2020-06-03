@@ -5,7 +5,7 @@ A shopping list application build using Kotlin for Android
 <img src="./home%20page.png" width="200">
 
 # New Item Dialog
-![](/new%20dialog.png)
+<img src="./new%20dialog.png" width="200">
 
 # Edit Item Dialog
-![](/edit%20dialog.png)
+<img src="./edit%20dialog.png" width="200">
