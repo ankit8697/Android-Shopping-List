@@ -2,10 +2,10 @@
 A shopping list application build using Kotlin for Android
 
 # Home Page
-![](/home_page.png)
+![](/home%20page.png)
 
 # New Item Dialog
-![](/new_dialog.png)
+![](/new%20dialog.png)
 
 # Edit Item Dialog
-![](/edit_dialog.png)
+![](/edit%20dialog.png)
