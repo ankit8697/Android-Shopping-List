@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyCart</string>
+    <string name="name_of_item">Name of Item</string>
+    <string name="description">Description</string>
+    <string name="estimated_price">Estimated Price</string>
+    <string name="has_it_been_purchased">Has it been purchased?</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="shopping_list_icon">shopping list icon</string>
+    <string name="my_cart">MyCart</string>
+    <string name="shopping_cart">shopping_cart</string>
+    <string name="calculate_total">Calculate Total</string>
+</resources>
